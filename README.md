@@ -4,8 +4,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![ISPC](https://img.shields.io/badge/ISPC-Evidencia_3-red?style=for-the-badge)
 
-> **Módulo:** Programador - Tecnicatura Superior en Ciencia de Datos e IA 
-> **Institución:** Instituto Superior Politécnico Córdoba (ISPC) 
+> **Módulo:** Programador - Tecnicatura Superior en Ciencia de Datos e IA  
+> **Institución:** Instituto Superior Politécnico Córdoba (ISPC)
 
 ---
 
@@ -15,15 +15,15 @@
 
 Esta versión representa una **evolución significativa** ("Evidencia 3") respecto al prototipo anterior. Las principales mejoras incluyen:
 
-* [cite_start]**Persistencia de Datos:** Integración completa con **MySQL** para el almacenamiento permanente de la información[cite: 984].
-* [cite_start]**Arquitectura Modular:** El código ha sido refactorizado y separado en módulos funcionales para mejorar la organización y escalabilidad[cite: 992].
+* **Persistencia de Datos:** Integración completa con **MySQL** para el almacenamiento permanente de la información.
+* **Arquitectura Modular:** El código ha sido refactorizado y separado en módulos funcionales para mejorar la organización y escalabilidad.
 * **Funcionalidades Avanzadas:** Inclusión de lógica de negocio compleja como el "Botón de Arrepentimiento".
 
 ### 🚀 Funcionalidades Principales
-* [cite_start]**Gestión de Clientes:** Alta, Baja, Modificación y Listado de clientes (CRUD)[cite: 1023].
-* [cite_start]**Gestión de Destinos:** Administración de rutas de vuelo y costos base[cite: 1028].
-* [cite_start]**Gestión de Ventas:** Registro de transacciones vinculando clientes y destinos[cite: 1033].
-* [cite_start]**Botón de Arrepentimiento:** Funcionalidad legal que permite anular una venta reciente dentro de un tiempo configurado (ej. 5 minutos)[cite: 1036].
+* **Gestión de Clientes:** Alta, Baja, Modificación y Listado de clientes (CRUD).
+* **Gestión de Destinos:** Administración de rutas de vuelo y costos base.
+* **Gestión de Ventas:** Registro de transacciones vinculando clientes y destinos.
+* **Botón de Arrepentimiento:** Funcionalidad legal que permite anular una venta reciente dentro de un tiempo configurado (ej. 5 minutos).
 
 ---
 
@@ -40,14 +40,13 @@ Sigue estos pasos para desplegar el proyecto en tu entorno local.
     ```bash
     pip install mysql-connector-python
     ```
-    [cite_start][cite: 994]
 
 ### 🔧 Paso a Paso
 
 **1. Configuración de la Base de Datos**
 * Abre tu gestor de base de datos (phpMyAdmin, DBeaver, Workbench).
 * Crea una base de datos vacía llamada `skyroute_db`.
-* Importa el archivo `skyroute.sql` incluido en este repositorio. [cite_start]Esto creará las tablas e insertará datos de prueba[cite: 1048].
+* Importa el archivo `skyroute.sql` incluido en este repositorio. Esto creará las tablas e insertará datos de prueba.
 
 **2. Configuración de Credenciales**
 * Abre el archivo `config.py` con tu editor de código.
@@ -72,7 +71,7 @@ Sigue estos pasos para desplegar el proyecto en tu entorno local.
 
 ## 🗂️ 4. Estructura del Proyecto
 
-[cite_start]El proyecto sigue una estructura modular para facilitar el mantenimiento [cite: 996-1011]:
+El proyecto sigue una estructura modular para facilitar el mantenimiento:
 
 ```text
 SkyRoute/

@@ -4,8 +4,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![ISPC](https://img.shields.io/badge/ISPC-Evidencia_3-red?style=for-the-badge)
 
-> [cite_start]**Módulo:** Programador - Tecnicatura Superior en Ciencia de Datos e IA [cite: 980, 984]  
-> [cite_start]**Institución:** Instituto Superior Politécnico Córdoba (ISPC) [cite: 978]
+> **Módulo:** Programador - Tecnicatura Superior en Ciencia de Datos e IA 
+> **Institución:** Instituto Superior Politécnico Córdoba (ISPC) 
 
 ---
 
@@ -27,17 +27,7 @@ Esta versión representa una **evolución significativa** ("Evidencia 3") respec
 
 ---
 
-## 👥 Integrantes del Grupo
 
-* **Gastón Cane** - [TuUsuarioGithub]
-* **Nombre Apellido** - [UsuarioGithub]
-* **Nombre Apellido** - [UsuarioGithub]
-* **Nombre Apellido** - [UsuarioGithub]
-* **Nombre Apellido** - [UsuarioGithub]
-
-[cite_start]*(Completa esta sección con los datos reales de tus compañeros según solicita la consigna [cite: 1019])*
-
----
 
 ## ⚙️ 3. Instrucciones de Instalación y Ejecución
 
